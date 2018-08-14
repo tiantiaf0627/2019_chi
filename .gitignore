@@ -1,0 +1,5 @@
+output/
+notebooks/
+py_spark_pipeline/
+*.pyc
+.DS_Store
